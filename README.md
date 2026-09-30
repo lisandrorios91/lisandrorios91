@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Lisandro 👋
 
-<!--
-**lisandrorios91/lisandrorios91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analytics Master's student at the University of Niagara Falls, Canada.
+With a background in accounting, bookkeeping, tax, and logistics coordination.
+I like turning data into clear decisions.
 
-Here are some ideas to get you started:
+**Tools:** Python (pandas, scikit-learn) · SQL · Tableau · Excel (Solver, Pivot Tables) · Jupyter
+**Interests:** financial analysis, supply chain & inventory analytics, forecasting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured projects
+- **Loan Default Prediction**: classification model to predict borrower default
+- **Portfolio Optimization**: mean-variance (Markowitz) optimization on S&P 500 stocks
+- **Retail Sales Dashboard**: Tableau visualization of retail sales trends
+
+📫 [LinkedIn](https://www.linkedin.com/in/lirios/) · 🌎 English / Spanish
