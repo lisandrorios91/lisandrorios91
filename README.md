@@ -1,15 +1,20 @@
-# Hi! I'm Lisandro 👋
+# Hi, I'm Lisandro 👋
 
-Data Analytics Master's student at the University of Niagara Falls, Canada. With a background in accounting, bookkeeping, tax, and logistics coordination. I like turning data into clear decisions.
+Data Analytics Master's student at the University of Niagara Falls, Canada. With a background in **accounting, bookkeeping, tax, and logistics coordination**.
 
-**Tools:** Python (pandas, NumPy, Matplotlib) · SQL (PostgreSQL, MySQL) · Power BI (DAX) · Tableau · Excel (Power Query, Pivot Tables, Solver) · Jupyter
+I enjoy turning data into clear, honest answers, and checking that the answer holds up before anyone acts on it.
 
-**Interests:** financial analysis, supply chain & inventory analytics, forecasting
+### What I work on
+- 📊 **Business intelligence:** dashboards and data models that track sales, profit and operations
+- 📦 **Supply chain & inventory analytics:** forecasting demand and keeping stock accurate
+- 💰 **Financial analysis:** reconciliations, reporting and the numbers behind decisions
+- 📈 **Statistics & forecasting:** regression, time series, and validating models properly
 
-### Featured projects
-- **Retail Sales Performance Dashboard** (Power BI): profitability and regional performance across 50,000+ transactions
-- **Supply Chain Demand & Inventory Analysis** (Python): forecasting component needs from invoice and procurement data
-- **Healthcare Clinic Database** (SQL): normalized relational schema and analytical MySQL queries
-- **Portfolio Optimization** (Excel Solver): mean-variance (Markowitz) optimization on S&P 500 stocks
+### Tools
+**Python** (pandas, NumPy, scikit-learn, statsmodels, Matplotlib, seaborn) · **SQL** (MySQL, PostgreSQL) · **Power BI** (DAX, Power Query) · **Tableau** · **Excel** (Power Query, Pivot Tables, Solver) · **Jupyter**
+
+### Currently
+🎓 Completing my Master's in Data Analytics
+🔎 Open to data, financial and operations analyst opportunities (remote or hybrid)
 
 📫 [LinkedIn](https://www.linkedin.com/in/lirios/) · 🌎 English / Spanish
